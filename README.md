@@ -10,7 +10,7 @@ A desktop application for monitoring network adapters and latency, built with **
 
 1. Clone the repository:
    ```bash
-   git clone <your-repo-link>
+   git clone https://github.com/Ol3h-Boiko/modern-ncpa.git
    cd modern-ncpa
    ```
 
